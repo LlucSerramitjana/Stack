@@ -1,0 +1,2 @@
+# Stack
+Autor: Lluc Serramitjana
